@@ -1,0 +1,15 @@
+- Folders
+- SHOWCASE HTML
+- SHOWCASE CSS
+	- USING SHADOW
+- Working on Tabs SECTION
+-TABS CSS 
+-TAB CONTENT 
+        - TAB Css 
+-TAB CONTENT 2 
+        -TAB CSS
+-TAB CONTENT 
+		-TAB CSS 
+-FOOTER - > 
+		- FOOTER CSS 
+-Media Queries -> 1:11:50
